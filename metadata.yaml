@@ -1,10 +1,8 @@
 _repo: Wallensteins-Lager_6518
-_version: 0.0.1
+_version: 0.1.0
 covers:
-- cover_type: archival
-  image_path: 6518/6518-h/images/title-page.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Schiller, Friedrich
@@ -17,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/289
     wikipedia: http://en.wikipedia.org/wiki/Friedrich_Schiller
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6518#Wallensteins-Lager
 gutenberg_bookshelf: DE Drama
 gutenberg_issued: '2004-09-01'
 gutenberg_type: Text
